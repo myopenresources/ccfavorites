@@ -1,0 +1,1 @@
+enum BtnType { blue, green,red,gray,primary,outlinedRed,outlinedBlue,outlinedGreen,outlinedGray,outlinedPrimary}
